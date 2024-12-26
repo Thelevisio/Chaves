@@ -107,3 +107,67 @@ http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152275.mp4
 http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152276.mp4
 #EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T02EP31
 http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152277.mp4
+
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP01
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152278.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP01
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152279.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP03
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152280.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP04
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152281.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP05
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152282.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP06
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152283.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP07
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152284.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP08
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152285.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP09
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152286.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP10
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152287.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP11
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152288.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP12
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152289.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP13
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152290.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP14
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152291.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP15
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152292.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP16
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152293.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP17
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152294.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP18
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152295.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP19
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152296.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP20
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152297.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP21
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152298.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP22
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152299.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP23
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152300.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP24
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152301.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP25
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152302.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP26
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152303.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP27
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152304.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP28
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152305.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP29
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152306.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP30
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152307.mp4
+#EXTINF:-1 tvg-name="Chaves" tvg-logo="https://encurtador.com.br/pucPb" ,T03EP31
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/152308.mp4
+
